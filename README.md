@@ -21,8 +21,8 @@ Insert gif or link to demo, or video
   
 ## Tech Stack
 
-Html
-CSS 
+Html, 
+CSS, 
 JavaScript
 
   
