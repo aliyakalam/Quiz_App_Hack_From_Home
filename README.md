@@ -2,13 +2,13 @@
 
 # Quiz App
 
-A brief description of what this project does and who it's for
+Quiz App using HTML,CSS and JavaScript.
 
 
 ## https://www.loom.com/share/a3346501ffa54ef3b72abaa160dab609    +    
 
 
-Insert gif or link to demo, or video
+Link to demo, or video
 [https://drive.google.com/file/d/1rDusc2iD6RAtMAtf70KLmUSCjVeaZXak/view?usp=drivesdk]
 
   
@@ -33,7 +33,7 @@ JavaScript
 
   
 ## Features
-Examples:
+
 - Simple
 - User Friendly
 - Cross platform
@@ -48,7 +48,7 @@ Go to the project directory
 https://github.com/aliyakalam/Project_Quiz_App
 
 
-and fill the Instructions for running it :)
+
 
   
 ## Screenshots
