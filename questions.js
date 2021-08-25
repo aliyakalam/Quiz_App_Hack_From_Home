@@ -26,7 +26,7 @@ let questions = [
     question: "Which one of these is a Javascript package manager?",
     answer: "npm",
     options: [
-      "  npm",
+      "npm",
       "node.js",
       "npm.js",
       "TypeScript"
